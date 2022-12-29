@@ -10,3 +10,4 @@ interested in c, c++, Swift.
 
 ## 📗 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseoungmin&show_icons=true&theme=github_dark)
+https://github-readme-stats.vercel.app/api/top-langs/?username=joseoungmin&theme=solarized-light)%5D(https://github.com/joseoungmin
